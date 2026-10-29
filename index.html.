@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student CI/CD Demo</title>
+</head>
+<body>
+    <h1>Hello from AWS CodePipeline!</h1>
+    <p>This webpage was deployed automatically using GitHub, AWS CodeBuild, and Amazon S3.</p>
+</body>
+</html>
+
